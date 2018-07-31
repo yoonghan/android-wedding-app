@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "789523696484",
+    "firebase_url": "https://weddingapp-53fec.firebaseio.com",
+    "project_id": "weddingapp-53fec",
+    "storage_bucket": "weddingapp-53fec.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:789523696484:android:ea21f1ad0629e9ce",
+        "android_client_info": {
+          "package_name": "com.walcron.hanleewan.weddingplanner"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "789523696484-29tu82ncd37bjg0gu681mm70t52fn04j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.walcron.hanleewan.weddingplanner",
+            "certificate_hash": "49AA829EF51E9C344C1A048D2806650FD15D6D0D"
+          }
+        },
+        {
+          "client_id": "789523696484-35onsk6u05ak60d57d3kb7t4e56lfbkt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPGj9f0GKuA6_TSHyzXhtWB84k3IBNSpk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "789523696484-35onsk6u05ak60d57d3kb7t4e56lfbkt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
